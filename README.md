@@ -28,7 +28,7 @@ Software Engineering – Information Technology
 
 ## Contact Information
 
-Feel free to reach out to me via [email](namqd98@gmail.com), [LinkedIn](www.linkedin.com](https://www.linkedin.com/in/namqd98/)
+Feel free to reach out to me via [email](namqd98@gmail.com), [LinkedIn](https://www.linkedin.com/in/namqd98/)
 
 ## Badges
 
