@@ -28,8 +28,8 @@ Software Engineering – Information Technology
 
 ## Contact Information
 
-Feel free to reach out to me via email, LinkedIn, or Twitter. Let's connect!
+Feel free to reach out to me via [email](namqd98@gmail.com), [LinkedIn](www.linkedin.com](https://www.linkedin.com/in/namqd98/)
 
 ## Badges
 
-Microsoft Certified: Azure Fundamentals
+Microsoft Certified: Azure Fundamentals - [Link](https://learn.microsoft.com/api/credentials/share/en-us/DinhNamQuang-8710/B24B5436D067A763?sharingId=ED8C95F30F31271D)
