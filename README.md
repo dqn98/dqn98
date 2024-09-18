@@ -1,10 +1,10 @@
-# My Portfolio
+# namdinh
 
-Welcome to my GitHub portfolio! Here, I showcase my skills, projects, and contributions. Feel free to explore and connect with me.
-
+Welcome to my GitHub portfolio! 
+Dinh Quang Nam - namqd98@gmail.com
 ## About Me
 
-Briefly introduce yourself. Mention your background, interests, and what drives you in the world of software development.
+In four years as a software engineer, I've worked end-to-end software development, handling requirements, design, development, maintenance, and optimization for diverse applications.
 
 ## Skills
 
@@ -12,15 +12,19 @@ List the programming languages, frameworks, and tools you're proficient in. High
 
 ## Projects
 
-### Project 1: [Project Name]
+Logistic Domain Project (Full-stack Developer)
+- Enhanced logistic management software by collaborating with customers in one-on-one meetings to validate requirements and coordinate with Quality Control to establish comprehensive test plans for newly developed functionalities based on customer requests.
+- Enhanced query performance for a million-record database in SQL Server by optimizing and streamlining the existing query function.
+- Created a new API for an existing application, facilitating seamless communication with new customers/systems.
+- Designed and developed an SQL Server database tailored to meet customer requirements.
+- Contributed to a microservices project by developing, maintaining, and researching components.
+- Developed and executed unit tests to ensure the correctness and reliability of functions, services, and APIs.
+- Built responsive and interactive front-end applications with HTML, CSS, JavaScript, and jQuery
 
-- **Description**: A concise overview of the project.
-- **Technologies Used**: List the technologies, libraries, and tools employed.
-- **GitHub Repository**: Provide a link to the project repository.
+## Education
 
-### Project 2: [Project Name]
-
-- ...
+HO CHI MINH UNIVERSITY OF TECHNOLOGY AND EDUCATION
+Software Engineering – Information Technology
 
 ## Contact Information
 
@@ -28,8 +32,4 @@ Feel free to reach out to me via email, LinkedIn, or Twitter. Let's connect!
 
 ## Badges
 
-Add relevant badges to showcase your achievements, such as GitHub stats, code coverage, or certifications.
-
----
-
-Feel free to customize this template by adding more sections, including screenshots, deployment links, and detailed project descriptions. Make it uniquely yours! 🚀
+Microsoft Certified: Azure Fundamentals
