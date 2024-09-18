@@ -4,7 +4,8 @@ Welcome to my GitHub portfolio!
 Dinh Quang Nam - namqd98@gmail.com
 ## About Me
 
-In four years as a software engineer, I've worked end-to-end software development, handling requirements, design, development, maintenance, and optimization for diverse applications.
+In four years as a software engineer, I've worked end-to-end software development, handling requirements, design, development, maintenance, and optimization for diverse applications. 
+Please find more information in my [Resume](https://drive.google.com/file/d/1-2hOpWyM9K6sV_FZ8J4ELprjf4PlZ9Wg/view?usp=sharing)
 
 ## Skills
 
