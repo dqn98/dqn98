@@ -9,7 +9,7 @@ Please find more information in my [Resume](https://drive.google.com/file/d/1neI
 
 ## Skills
 
-List the programming languages, frameworks, and tools you're proficient in. Highlight any specific areas of expertise.
+- .NET, C#, MSSQL, SQL, Javascript, English
 
 ## Projects
 
