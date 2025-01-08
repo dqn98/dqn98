@@ -9,7 +9,8 @@ Please find more information in my [Resume](https://drive.google.com/file/d/1neI
 
 ## Skills
 
-- .NET, C#, MSSQL, SQL, Javascript, English
+- .NET, C#, SQL, Javascript, English
+- Microservices, Clean architecture
 
 ## Experience
 
@@ -53,7 +54,7 @@ Please find more information in my [Resume](https://drive.google.com/file/d/1neI
 
 **Skills**
 
-* Programming Languages: C#, .NET (Core & 8), Java (basic), PHP
+* Programming Languages: C#, .NET (Core & 8), Javascript
 * Frameworks and Libraries: ASP.Net, AngularJS, ReactJS, AWS Services (Connect, S3, Lambda, API Gateway), Azure Services (Databricks)
 * Databases: SQL Server, MySQL (basic)
 * Version Control: Git
