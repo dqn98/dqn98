@@ -16,7 +16,7 @@ Please find more information in my [Resume](https://drive.google.com/file/d/1neI
 
 **Experience**
 
-**VE PAYMENTS** | Ho Chi Minh City | Jan 2025 - Present
+**LIVE PAYMENTS** | Ho Chi Minh City | Jan 2025 - Present
 
 **Software Engineer (.NET Full-Stack Developer)** | Team size: 15
 
