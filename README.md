@@ -22,6 +22,13 @@ Please find more information in my [Resume](https://drive.google.com/file/d/1neI
 
 * **Technical Stack:** C#, .NET 8, XUnit, Microservices Architecture, SQL Server, ReactJS, AWS, JQuery, AI Tools
 * **Responsibilities:**
+
+**GROOVE TECHNOLOGY** | Ho Chi Minh City | May 2022 - Dec 2024
+
+**Software Engineer (Full-Stack Developer)** | Team size: 24
+
+* **Technical Stack:** C#, .NET 8, XUnit, Microservices Architecture, SQL Server, Databricks, Azure Services, JQuery, LESS
+* **Responsibilities:**
     * Developed clear and accurate user stories, actively participating in team discussions to ensure alignment on requirements and project scope.
     * Collaborated with the QC team to minimize defects in feature development.
     * Enhanced logistic management software through customer meetings to validate requirements and coordinated with Quality Control to establish comprehensive test plans.
@@ -32,14 +39,7 @@ Please find more information in my [Resume](https://drive.google.com/file/d/1neI
     * Developed and executed unit tests to verify function behavior and prevent regressions.
     * Developed responsive, interactive front-end applications using HTML, LESS, CSS, and jQuery based on Figma designs, integrating with backend systems via RESTful APIs.
     * Delivered sprint review presentations to demonstrate project progress.
-
-**GROOVE TECHNOLOGY** | Ho Chi Minh City | May 2022 - Dec 2024
-
-**Software Engineer (Full-Stack Developer)** | Team size: 24
-
-* **Technical Stack:** C#, .NET 8, XUnit, Microservices Architecture, SQL Server, Databricks, Azure Services, JQuery, LESS
-* **Responsibilities:**
-
+  
 **DXC TECHNOLOGY** | Ho Chi Minh City | April 2020 - May 2022
 
 **Software Developer (Full-Stack Developer)** | Team size: 6
