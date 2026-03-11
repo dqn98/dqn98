@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio!
 Dinh Quang Nam - namqd98@gmail.com
 ## About Me
 
-In four years as a software engineer, I've worked end-to-end software development, handling requirements, design, development, maintenance, and optimization for diverse applications. 
+In five years as a software engineer, I've worked end-to-end software development, handling requirements, design, development, maintenance, and optimization for diverse applications. 
 Please find more information in my [Resume](https://drive.google.com/file/d/1neIDrnn1-xGK8we3NsMqmCE4KPr8SEuC/view?usp=sharing) here.
 
 ## Skills
@@ -16,11 +16,11 @@ Please find more information in my [Resume](https://drive.google.com/file/d/1neI
 
 **Experience**
 
-**GROOVE TECHNOLOGY** | Ho Chi Minh City | May 2022 - Present
+**VE PAYMENTS** | Ho Chi Minh City | Jan 2025 - Present
 
-**Software Engineer (Full-Stack Developer)** | Team size: 24
+**Software Engineer (.NET Full-Stack Developer)** | Team size: 15
 
-* **Technical Stack:** C#, .NET 8, XUnit, Microservices Architecture, SQL Server, Databricks, Azure Services, JQuery, LESS
+* **Technical Stack:** C#, .NET 8, XUnit, Microservices Architecture, SQL Server, ReactJS, AWS, JQuery, AI Tools
 * **Responsibilities:**
     * Developed clear and accurate user stories, actively participating in team discussions to ensure alignment on requirements and project scope.
     * Collaborated with the QC team to minimize defects in feature development.
@@ -32,6 +32,13 @@ Please find more information in my [Resume](https://drive.google.com/file/d/1neI
     * Developed and executed unit tests to verify function behavior and prevent regressions.
     * Developed responsive, interactive front-end applications using HTML, LESS, CSS, and jQuery based on Figma designs, integrating with backend systems via RESTful APIs.
     * Delivered sprint review presentations to demonstrate project progress.
+
+**GROOVE TECHNOLOGY** | Ho Chi Minh City | May 2022 - Dec 2024
+
+**Software Engineer (Full-Stack Developer)** | Team size: 24
+
+* **Technical Stack:** C#, .NET 8, XUnit, Microservices Architecture, SQL Server, Databricks, Azure Services, JQuery, LESS
+* **Responsibilities:**
 
 **DXC TECHNOLOGY** | Ho Chi Minh City | April 2020 - May 2022
 
